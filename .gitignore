@@ -1,0 +1,12 @@
+
+# Playwright
+**/node_modules/**
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+package-lock.json
+tests\example.spec.js
+demo-todo-app.spec.js
+user.js
